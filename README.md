@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/zJGxKmp/vbox-image.jpg" alt="VirtualBox logo"/>
+<img src="https://i.imgur.com/Aja9D5E.jpeg" />
 </p>
 
 <h1>VirtualBox - Snapshot Management</h1>
@@ -23,8 +23,8 @@ Snapshots allow you to preserve a specific state of the virtual machine. This is
 
 <h2>Managing Snapshots</h2>
 <p>
-<img src="https://i.ibb.co/QpbydT8/1.png" alt="Snapshot-Management 1"/>
-<img src="https://i.ibb.co/ZNTwC8V/1-2.png" alt="Snapshot-Management 1-2"/>
+<img src="https://i.imgur.com/vT6LSZJ.png" />
+<img src="https://i.imgur.com/pCcdMqA.png" />
 </p>
 <p>
 Open VirtualBox and select the virtual machine you want to manage. Navigate to the **Snapshots** tab, located in the top panel.
@@ -32,7 +32,7 @@ Click the **Take** button to create a new snapshot. Provide a descriptive name a
 </p>
 
 <p>
-<img src="https://i.ibb.co/Kx17S2d/2.png" alt="Snapshot-Management 2"/>
+<img src="https://i.imgur.com/avwR47C.png" />
 </p>
 
 <p>
@@ -40,7 +40,7 @@ For example, you can name the snapshot **Pre-Update Configuration** to signify t
 </p>
 
 <p>
-<img src="https://i.ibb.co/DrhXR9W/restore.png" alt="restore"/>
+<img src="https://i.imgur.com/4jA5zEa.png" />
 </p>
 
 <p>
